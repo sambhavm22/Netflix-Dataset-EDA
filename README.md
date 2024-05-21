@@ -30,6 +30,6 @@ Analyze the data and generate insights that could help Netflix ijn deciding whic
 
 <img width="1416" alt="Screenshot 2024-05-21 at 4 54 15 PM" src="https://github.com/sambhavm22/Netflix-Dataset-EDA/assets/58766591/ecfc17aa-6291-4548-a4e4-3ecc7d644246">
 
-
+*Top actors by no of movies/tv-show*
 
 <img width="1494" alt="Screenshot 2024-05-21 at 4 55 25 PM" src="https://github.com/sambhavm22/Netflix-Dataset-EDA/assets/58766591/403312c7-3661-444b-9f37-9168a6477e36">
